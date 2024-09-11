@@ -31,11 +31,11 @@ Hey! I’m a **Computer Science** student at Drexel University, constantly learn
 - Won **Best Use of Google Cloud** for a system that keeps cyclists safe by detecting traffic with **Google Cloud Vision AI**
 - Integrated everything with a Java-based BLE app for easy smartphone connectivity
 
-### [Weapon Detection System](https://devpost.com/software/weapon-detection-system) | Devpost
+### [Weapon Detection System](https://devpost.com/software/weapon-detection-system) |  Philly Codefest 
 - Developed a system that can detect the presence of weapons in a live feed, enhancing public safety
 - Built using **computer vision** techniques to identify and flag potential threats in real-time
 
-### [iSee](https://devpost.com/software/isee-mv2oq9) | Devpost
+### [iSee](https://devpost.com/software/isee-mv2oq9) | HopHacks 
 - Created a smart vision system that helps visually impaired individuals navigate more safely
 - Utilized **computer vision** and **machine learning** algorithms to provide real-time object detection and alerts
 
@@ -55,7 +55,7 @@ I like to experiment with a variety of tools and languages. Here are some I’ve
 - **Defense Insights** @ BitCamp
 - **Dragon Bot** @ HoyaHacks (Cloudforce Microsoft AI Track Winner)
 - **Bike Copilot System** @ HoyaHacks (Best Use of Google Cloud)
-- **Weapon Detection System** @ Philly Codefest 2023 
+- **Weapon Detection System** @ Philly Codefest 
 - **iSee** @ HopHacks 
 
 I love hackathons because they push me to learn and create fast. I’ve built web apps, ML models, and hardware solutions that solve real problems. Always looking for the next cool project!
