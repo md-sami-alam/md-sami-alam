@@ -55,8 +55,8 @@ I like to experiment with a variety of tools and languages. Here are some I’ve
 - **Defense Insights** @ BitCamp
 - **Dragon Bot** @ HoyaHacks (Cloudforce Microsoft AI Track Winner)
 - **Bike Copilot System** @ HoyaHacks (Best Use of Google Cloud)
-- **Weapon Detection System** @ Devpost
-- **iSee** @ Devpost
+- **Weapon Detection System** @ Philly Codefest 2023 
+- **iSee** @ HopHacks 
 
 I love hackathons because they push me to learn and create fast. I’ve built web apps, ML models, and hardware solutions that solve real problems. Always looking for the next cool project!
 
