@@ -1,4 +1,3 @@
-# my-github-profile
 <h1 align="center">Hi 👋, I’m Sami - Welcome to my GitHub</h1>
 
 - 🌱 I’m currently pursuing my Bachelor's degree in **Computer Science** at the **College of Computing & Informatics** - Drexel University.
