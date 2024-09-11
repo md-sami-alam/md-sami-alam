@@ -31,6 +31,14 @@ Hey! I’m a **Computer Science** student at Drexel University, constantly learn
 - Won **Best Use of Google Cloud** for a system that keeps cyclists safe by detecting traffic with **Google Cloud Vision AI**
 - Integrated everything with a Java-based BLE app for easy smartphone connectivity
 
+### [Weapon Detection System](https://devpost.com/software/weapon-detection-system) | Devpost
+- Developed a system that can detect the presence of weapons in a live feed, enhancing public safety
+- Built using **computer vision** techniques to identify and flag potential threats in real-time
+
+### [iSee](https://devpost.com/software/isee-mv2oq9) | Devpost
+- Created a smart vision system that helps visually impaired individuals navigate more safely
+- Utilized **computer vision** and **machine learning** algorithms to provide real-time object detection and alerts
+
 ---
 
 ## 🛠️ Tech Skills
@@ -47,6 +55,8 @@ I like to experiment with a variety of tools and languages. Here are some I’ve
 - **Defense Insights** @ BitCamp
 - **Dragon Bot** @ HoyaHacks (Cloudforce Microsoft AI Track Winner)
 - **Bike Copilot System** @ HoyaHacks (Best Use of Google Cloud)
+- **Weapon Detection System** @ Devpost
+- **iSee** @ Devpost
 
 I love hackathons because they push me to learn and create fast. I’ve built web apps, ML models, and hardware solutions that solve real problems. Always looking for the next cool project!
 
@@ -68,7 +78,7 @@ Feel free to reach out! I’m always up for a chat about tech, projects, or pote
   <a href="https://www.linkedin.com/in/md-sami-alam/" target="blank">
     <img align="center" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://devpost.com/Veteran0fdeath" target="blank">
+  <a href="https://devpost.com/mdsamialam" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" alt="Devpost" height="30" width="40"/>
   </a>
 </p>
