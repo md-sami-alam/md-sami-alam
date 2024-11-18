@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-Hey! I’m a **Computer Science** student at Drexel University, constantly learning and building cool stuff. I enjoy working on **software development**, **machine learning**, and **embedded systems** projects. If I’m not coding, I’m probably at a hackathon or teaching myself something new.
+Hey! I’m a **Computer Science** student at Drexel University, constantly learning and building cool stuff. I enjoy working on **software development**, **machine learning**, and **embedded systems** projects. If I’m not coding, I’m probably at a hackathon or teaching myself something new. I recently started doing ICPC.
 
 - 🎓 Pursuing a **Bachelor's of Science in Computer Science**
 - 🧠 Always learning new things, from ML models to web dev
