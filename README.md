@@ -23,7 +23,7 @@ Software Engineer with 3 co-ops in medical devices, embedded systems, and roboti
 ## 💼 Experience
 
 **Dräger Medical Systems** — R&D Software Engineer *(Apr 2025 – Sep 2025)*  
-Embedded C++ for patient monitoring systems • Python automation tools • FDA design control documentation
+Embedded C++ for medical device • Python automation tools • FDA design control documentation
 
 **Pression, LLC** — Product Development Engineer *(Sep 2023 – Mar 2024)*  
 Embedded C firmware for PIC microcontrollers • Physiological signal processing • FDA 510(k) development
