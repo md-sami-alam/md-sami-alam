@@ -44,7 +44,7 @@ NAOqi robotics applications • STEM curriculum development • FIRST Robotics m
 
 ## 💡 Other Projects
 
-**[Defense Insights](https://github.com/Emmettlsc/bitcamp2024)** — Django web app for 30,000+ US Defense contracts using GPT and Selenium
+**[Defense Insights](https://github.com/Emmettlsc/bitcamp2024)** — Defense Insights is an advanced tool to automatically extract, analyze, and visualize critical data on US defense contracts.
 
 **[Weapon Detection System](https://devpost.com/software/weapon-detection-system)** — Real-time threat detection using computer vision @ Philly Codefest
 
